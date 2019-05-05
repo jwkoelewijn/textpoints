@@ -11,7 +11,7 @@
   (q/color-mode :hsb)
   ; setup function returns initial state.
   (let [font (q/load-font "Objectivity-Bold.woff")] ;"AvenirNextLTPro-Demi.otf")]
-    {:sentence "Hallo, prettige Zondag!"
+    {:sentence "Hello there, have a nice day!"
      :font-size 192
      :font font
      :max-distance (* 0.5 (Math/sqrt (+ (* (q/width) (q/width))
