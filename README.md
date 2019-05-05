@@ -12,6 +12,10 @@ Run `lein figwheel` in your terminal. Wait for a while until you see `Successful
 
 You can use this while developing your sketch. Whenever you save your source files the browser will automatically refresh everything, providing you with quick feedback. For more information about Figwheel, check the [Figwheel repository on GitHub](https://github.com/bhauman/lein-figwheel).
 
+Once the sketch is loaded, use:
+
+- left mouse button to reset the current word: all points will get a random location and will move to their target location
+- right arrow key transitions to the next word in the sentence. Points will be reused when possible.
 
 ## License
 
