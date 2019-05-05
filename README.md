@@ -3,6 +3,9 @@
 A Quil sketch showing a text as points. Points will move to their target location, or flee
 from the mouse if the cursor is less than 50px away from it.
 
+Based on Coding Challenge #59 of The Coding Train Youtube channel: 
+https://www.youtube.com/watch?v=4hA7G3gup-4
+
 ## Usage
 
 Run `lein figwheel` in your terminal. Wait for a while until you see `Successfully compiled "resources/public/js/main.js"`. Open [localhost:3449](http://localhost:3449) in your browser.
