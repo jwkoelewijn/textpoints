@@ -1,5 +1,7 @@
 # textpoints
 
+![example](nice-day.gif)
+
 A Quil sketch showing a text as points. Points will move to their target location, or flee
 from the mouse if the cursor is less than 50px away from it.
 
